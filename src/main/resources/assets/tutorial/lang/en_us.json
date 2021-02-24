@@ -1,0 +1,21 @@
+{
+  "item.tutorial.example_item": "Example Item",
+  "item.tutorial.special_item": "Health Booster",
+  "block.tutorial.bruh_block": "Bruh Block",
+  "block.tutorial.test_block": "Test Block",
+  "block.tutorial.dream_block": "Dream Block",
+  "block.tutorial.example_ore": "Example Ore",
+  "block.tutorial.nether_example_ore": "Nether Example Ore",
+  "block.tutorial.end_example_ore": "End Example Ore",
+  "block.tutorial.spin_block": "Spin Block",
+  "itemGroup.tutorialtab": "TutorialMod",
+  "item.tutorial.example_food": "Orange",
+  "item.tutorial.example_sword": "Example Sword",
+  "item.tutorial.cherry_food": "Cherries",
+  "item.tutorial.shaded_item": "Shaded Item",
+  "item.tutorial.example_axe": "Example Axe",
+  "item.tutorial.example_shovel": "Example Shovel",
+  "item.tutorial.example_hoe": "Example Hoe",
+  "item.tutorial.example_pickaxe": "Example Pickaxe",
+  "tooltip.special_item.hold_shift": "Hold \u00A7eShift \u00A77for More Information"
+}

@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3359,
+      "minecraft:sprint_one_cm": 61575,
+      "minecraft:damage_taken": 1470,
+      "minecraft:walk_one_cm": 28694,
+      "minecraft:mob_kills": 55,
+      "minecraft:interact_with_anvil": 3,
+      "minecraft:drop": 7,
+      "minecraft:damage_dealt": 23114,
+      "minecraft:fly_one_cm": 1972351,
+      "minecraft:open_chest": 2,
+      "minecraft:crouch_one_cm": 86,
+      "minecraft:play_one_minute": 86931,
+      "minecraft:deaths": 4,
+      "minecraft:sneak_time": 612,
+      "minecraft:walk_under_water_one_cm": 1553,
+      "minecraft:aviate_one_cm": 22508,
+      "minecraft:jump": 668,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_on_water_one_cm": 5284,
+      "minecraft:time_since_death": 3324,
+      "minecraft:climb_one_cm": 0,
+      "minecraft:fall_one_cm": 12653
+    },
+    "minecraft:mined": {
+      "tutorial:example_ore": 5,
+      "minecraft:diamond_ore": 4,
+      "minecraft:redstone_ore": 3,
+      "minecraft:grass": 5,
+      "tutorial:end_example_ore": 1,
+      "minecraft:tall_grass": 1,
+      "minecraft:stone": 1
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 29,
+      "minecraft:ender_eye": 11,
+      "minecraft:firework_rocket": 1,
+      "minecraft:flint_and_steel": 2,
+      "tutorial:nether_example_ore": 2,
+      "minecraft:wither_skeleton_spawn_egg": 1,
+      "minecraft:cracked_stone_bricks": 2,
+      "minecraft:netherrack": 1,
+      "tutorial:example_ore": 5,
+      "minecraft:torch": 59,
+      "minecraft:anvil": 1,
+      "minecraft:tnt": 27,
+      "minecraft:netherite_pickaxe": 17,
+      "minecraft:lingering_potion": 53,
+      "tutorial:end_example_ore": 2,
+      "minecraft:cobweb": 10,
+      "minecraft:obsidian": 26
+    },
+    "minecraft:dropped": {
+      "minecraft:gold_ore": 1,
+      "minecraft:stone": 1,
+      "minecraft:torch": 1,
+      "minecraft:end_portal_frame": 1,
+      "minecraft:string": 1,
+      "minecraft:redstone": 13
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 2,
+      "minecraft:zombie": 1,
+      "minecraft:silverfish": 13,
+      "minecraft:spider": 1,
+      "minecraft:bat": 8,
+      "minecraft:ender_dragon": 2,
+      "minecraft:wither_skeleton": 1,
+      "minecraft:creeper": 3,
+      "minecraft:wither": 5,
+      "minecraft:enderman": 19
+    },
+    "minecraft:killed_by": {
+      "minecraft:wither": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:torch": 3,
+      "minecraft:dandelion": 4,
+      "minecraft:wither_rose": 1,
+      "minecraft:gunpowder": 43,
+      "minecraft:redstone": 13,
+      "minecraft:cornflower": 1,
+      "minecraft:string": 2,
+      "minecraft:dirt": 29,
+      "minecraft:stone_sword": 1,
+      "minecraft:bone": 1,
+      "minecraft:diamond": 4,
+      "minecraft:cracked_stone_bricks": 2,
+      "minecraft:wheat_seeds": 3,
+      "tutorial:example_item": 6,
+      "minecraft:beef": 1,
+      "minecraft:mossy_stone_bricks": 1,
+      "minecraft:coal": 11,
+      "minecraft:nether_star": 5,
+      "minecraft:cobblestone": 27,
+      "minecraft:ender_pearl": 446
+    }
+  },
+  "DataVersion": 2584
+}

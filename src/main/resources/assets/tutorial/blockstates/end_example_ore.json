@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutorial:block/end_example_ore"
+    }
+  }
+}

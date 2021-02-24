@@ -1,0 +1,11 @@
+com.Tutorial.TutorialMod
+com.Tutorial.TutorialMod.client.event
+com.Tutorial.TutorialMod.client.utils
+com.Tutorial.TutorialMod.common.blocks
+com.Tutorial.TutorialMod.common.items
+com.Tutorial.TutorialMod.core.enums
+com.Tutorial.TutorialMod.core.event
+com.Tutorial.TutorialMod.core.init
+com.Tutorial.TutorialMod.datagen
+com.Tutorial.TutorialMod.datagen.loot
+com.Tutorial.TutorialMod.world

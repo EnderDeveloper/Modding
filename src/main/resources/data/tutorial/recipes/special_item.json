@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#T/",
+    "NLn",
+    "GT/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:honey_bottle"
+    },
+    "T": {
+      "item": "tutorial:example_item"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "N": {
+      "item": "minecraft:nether_wart"
+    },
+    "L": {
+      "item": "tutorial:dream_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "G": {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  },
+  "result": {
+    "item": "tutorial:special_item",
+    "count": 1
+  }
+}
