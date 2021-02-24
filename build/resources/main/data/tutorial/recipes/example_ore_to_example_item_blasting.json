@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "tutorial:example_ore"
-  },
-  "result": "tutorial:example_item",
-  "experience": 1,
-  "cookingtime": 10
-}

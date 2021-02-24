@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "tutorial:blocks/end_example_ore"
-  }
-}

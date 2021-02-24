@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "render": "transparent",
-  "textures": {
-    "all": "tutorial:blocks/test_block"
-  }
-}
